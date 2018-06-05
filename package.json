@@ -1,0 +1,19 @@
+{
+  "name": "ethereum-test-repo",
+  "version": "1.0.0",
+  "description": "Test repo for interacting with GithubAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HOllarves/Ethereum-Test-Repo.git"
+  },
+  "author": "Henry Ollarves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HOllarves/Ethereum-Test-Repo/issues"
+  },
+  "homepage": "https://github.com/HOllarves/Ethereum-Test-Repo#readme"
+}
